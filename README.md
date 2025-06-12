@@ -1,2 +1,2 @@
 # Projects
-Some projects that I did in class :D
+Some codes that I did :D
