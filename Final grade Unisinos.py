@@ -1,4 +1,4 @@
-print("Hello, my name is clodsire to see if you can pass without the third part of semester the C grade in Unisinos!!\n")
+print("Hello, my name is clodsire the chat bot to see if you can pass without the third part of semester the C grade in Unisinos!!\n")
 
 print("Type what you want.")
 
